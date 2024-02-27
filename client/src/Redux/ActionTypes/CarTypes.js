@@ -1,0 +1,2 @@
+export const GETALLCARS = "GETALLCARS"
+export const GETONECAR = "GETONECAR"
